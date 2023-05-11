@@ -2,15 +2,18 @@
 매일 2문제 올리기(프로그래머스)
 
 
-LV2부터 풀기
+LV1~LV2
 
 
-언어는 자유로 PR 올릴 떄 코드 설명 자세히
+언어는 자유로 
+
+
+PR 올릴 떄 코드 설명 자세히
 
 
 안하면 커피사기
 
-매일 문제는 나(이수창)이 올려둠 ReadMe에 링크올림
+매일 문제는 올려둠 ReadMe에 링크올림
 
 각자 폴더 생성 후 문제 풀기
 
@@ -18,10 +21,10 @@ LV2부터 풀기
 
 | 날짜 | 링크 | 이수창 | 서예진A | 서예진B | 장주성 |
 | :----------|:----------|:----------| :----------| :----------| :----------|
-| **5.11**| [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)| | | | |
+| **5.11**| [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)| | | | |
 | | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) |  |  |  |  |
-| **5.12**|   |  |  |  |  |
-| |    |  |  |  |  |
+| **5.12**|  [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) |  |  |  |  |
+| |   [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) |  |  |  |  |
 | **5.13**|  |  |  |  |  |  |
 | |  |   |  |  |  |
 | **5.14**|    |  |  |  |  |
