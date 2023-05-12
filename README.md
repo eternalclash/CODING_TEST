@@ -21,7 +21,7 @@ PR 올릴 떄 코드 설명 자세히
 
 | 날짜 | 링크 | 이수창 | 서예진A | 서예진B | 장주성 |
 | :----------|:----------|:----------| :----------| :----------| :----------|
-| **5.11**| [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)| O | | O |O |
+| **5.11**| [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)| O | O | O |O |
 | | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | O |  | O | ! |
 | **5.12**|  [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) |  |  |  |  |
 | |   [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) |  |  |  |  |
