@@ -29,6 +29,6 @@ PR 올릴 떄 코드 설명 자세히
 | |  |   |  |  |  |
 | **5.14**| [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)| O | O | O | O |
 | |    |  |  |  |  |
-| **5.15**|   |  |  |  |  |
-| |    |  |  |  |  |
+| **5.15**| [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)  |  |  |  |  |
+| |    |  |[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)  |  |  |
 | |  링크 |  |  |  |  |
