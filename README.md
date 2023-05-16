@@ -29,7 +29,7 @@ PR 올릴 떄 코드 설명 자세히
 | |  |   |  |  |  |
 | **5.14**| [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)| O | O | O | O |
 | |    |  |  |  |  |
-| **5.15**| [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)  | O |  | O | O |
+| **5.15**| [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)  | O | O | O | O |
 | |[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)    | O |  | O | ! |
 |**5.16** | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|  |  |  |  |
 |  | [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|  |  |  |  |
