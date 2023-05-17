@@ -6,6 +6,8 @@ using namespace std;
 
 /* 
 조합하면서 크기 비교하기 6+10 vs 10+6 => 610 > 106 , 610선택하도록
+문자 결합해보고 사전 순서가 더 뒤인것(더 큰 것이 순서가 더 뒤) => 앞에 있도록 sort
+return true => 순서를 유지한다
 */
 bool compare(string &a, string &b) {
     return a+b > b+a;
