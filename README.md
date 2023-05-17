@@ -33,4 +33,6 @@ PR 올릴 떄 코드 설명 자세히
 | |[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)    | O |  | O | ! |
 |**5.16** | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|  |  | O | ! |
 |  | [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|  |  | ! |!  |
-| **5.17** | |  |  |  |  |
+| **5.17** |[k번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |  |  |  |  |
+| |[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |  |  |  |  |
+| **5.18** | |  |  |  |  |
