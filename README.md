@@ -36,7 +36,7 @@ PR 올릴 떄 코드 설명 자세히
 | **5.17** |[k번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |  | O |  |  O|
 | |[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |  | O |  | ! |
 | **5.18** | [h-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|  | ! |  |  |
-|  | [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|  |  |  |  |
+|  | [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|  | O |  |  |
 | **5.18** | |  |  |  |  |
 |  | |  |  |  |  |
 | **5.18** | |  |  |  |  |
