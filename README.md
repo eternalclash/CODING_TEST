@@ -32,11 +32,11 @@ PR 올릴 떄 코드 설명 자세히
 | **5.15**| [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)  | O | O | O | O |
 | |[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)    | O |  | O | ! |
 |**5.16** | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|  |  | O | ! |
-|  | [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|  |  | ! |!  |
-| **5.17** |[k번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |  | O | O |  O|
-| |[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |  | O | O | ! |
-| **5.18** | [h-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|  | ! | O | ! |
-|  | [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|  | O | O |O  |
+|  | [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)| ! |  | ! |!  |
+| **5.17** |[k번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | O | O | O |  O|
+| |[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | O | O | O | ! |
+| **5.18** | [h-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)| O | ! | O | ! |
+|  | [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)| O | O | O |O  |
 | **5.18** |[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|  |  |  |  |
 |  | [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|  |  |  |  |
 | **5.18** | |  |  |  |  |
