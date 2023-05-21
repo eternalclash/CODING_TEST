@@ -41,5 +41,5 @@ PR 올릴 떄 코드 설명 자세히
 |  | [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|  |  |  | O |
 | **5.20** |[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) |  |  |  | O |
 |  | |  |  |  |  |
-| **5.21** | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|  |  |  |  |
+| **5.21** | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|  |  |  | ! |
 |  | |  |  |  |  |
