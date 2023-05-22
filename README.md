@@ -39,9 +39,9 @@ PR 올릴 떄 코드 설명 자세히
 |  | [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)| O | O | O |O  |
 | **5.19** |[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)| O | O |  | O |
 |  | [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)| O |  |  | O |
-| **5.20** |[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | O|  |  | O |
+| **5.20** |[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | O |  |  | O |
 |  | |  |  |  |  |
-| **5.21** | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)| O|  |  | ! |
+| **5.21** | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)| O |  |  | ! |
 |  | |  |  |  |  |
-| **5.22** | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)| O|  |  | ! |
-|  |[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | O|  |  |  |
+| **5.22** | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)| O| O |  | ! |
+|  |[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | O | O |  |  |
