@@ -43,5 +43,5 @@ PR 올릴 떄 코드 설명 자세히
 |  | |  |  |  |  |
 | **5.21** | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)| O |  |  | ! |
 |  | |  |  |  |  |
-| **5.22** | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)| O| O |  | ! |
-|  |[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | O | O |  |  |
+| **5.22** | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)| O| O |  | O |
+|  |[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | O | O |  |  O|
